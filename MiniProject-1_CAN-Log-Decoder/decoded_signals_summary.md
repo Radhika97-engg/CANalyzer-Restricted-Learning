@@ -29,7 +29,7 @@ This summary lists the signals observed in the Data/Trace Windows and maps them 
 
 ---
 
-##Cycle Time (Assumed)
+## Cycle Time (Assumed)
 
 Due to View-Only Mode, cycle time was not directly measured. Based on signal nature:
 
@@ -40,7 +40,7 @@ Due to View-Only Mode, cycle time was not directly measured. Based on signal nat
 
 ---
 
-##Additional Notes
+## Additional Notes
 
 - Signal tagging was enabled via the **Favorites column** in the Data Window.
 - These signals were tracked visually in Data and Graphics panels.
